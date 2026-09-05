@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+selenium
+webdriver-manager
+PyPDF2
+pdfplumber
+reportlab
