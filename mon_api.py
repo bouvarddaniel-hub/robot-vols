@@ -1037,7 +1037,7 @@ def login(request: Request, password: str = Form(...)):
     
     enregistrer_visite(ip, statut="succes")
     response = RedirectResponse(url="/choix", status_code=303)
-    response.set_cookie(key="auth_cookie", value="valide", path="/)
+    response.set_cookie(key="auth_cookie", value="valide", path="/")
     return response
 
 @app.get("/logout", response_class=HTMLResponse)
