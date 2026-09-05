@@ -1,0 +1,116 @@
+[2026-09-02 08:40:51] Visite depuis IP : 192.168.1.254
+[2026-09-02 12:44:39] Visite depuis IP : 47.245.140.136
+[2026-09-02 14:31:41] Visite depuis IP : 199.45.155.88
+[2026-09-02 14:31:51] Visite depuis IP : 199.45.155.88
+[2026-09-02 15:19:27] Visite depuis IP : 85.217.149.35
+[2026-09-02 15:32:59] Visite depuis IP : 85.217.149.31
+[2026-09-02 16:04:46] Visite depuis IP : 37.10.113.211
+[2026-09-02 16:05:03] Visite depuis IP : 69.5.169.137
+[2026-09-02 16:05:03] Visite depuis IP : 69.5.169.244
+[2026-09-02 17:59:20] Visite depuis IP : 176.65.149.236
+[2026-09-03 05:44:09] Visite depuis IP : 3.129.187.38
+[2026-09-03 05:45:16] Visite depuis IP : 3.129.187.38
+[2026-09-03 05:50:27] Visite depuis IP : 103.203.58.4
+[2026-09-03 09:38:32] Visite depuis IP : 64.62.156.172
+[2026-09-03 09:40:31] Visite depuis IP : 20.118.249.228
+[2026-09-03 09:41:55] Visite depuis IP : 192.168.1.254
+[2026-09-03 09:42:13] Tentative de connexion - IP : 192.168.1.254 | Mot de passe saisi : 'azerty'
+[2026-09-03 09:42:25] Tentative de connexion - IP : 192.168.1.254 | Mot de passe saisi : 'David'
+[2026-09-03 09:42:26] Tentative de connexion - IP : 192.168.1.254 | Mot de passe saisi : 'David'
+[2026-09-03 09:42:40] Tentative de connexion - IP : 192.168.1.254 | Mot de passe saisi : 'David56380'
+
+2026-09-04 08:37:57 | IP: 192.168.1.254 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 08:37:58 | IP: 192.168.1.254 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 08:42:53 | IP: 192.168.1.254 | Connexion réussie
+2026-09-04 08:43:34 | IP: 192.168.1.254 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Sao Luis - Marechal Cunha Machado International Airport (SLZ)
+2026-09-04 08:55:16 | IP: 192.168.1.254 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Sao Luis - Marechal Cunha Machado International Airport (SLZ)
+2026-09-04 08:57:17 | IP: 192.168.1.254 | Tentative: David563803
+2026-09-04 08:58:06 | IP: 192.168.1.254 | Connexion réussie
+2026-09-04 08:58:49 | IP: 192.168.1.254 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Natal - Governador Aluízio Alves International Airport (NAT)
+2026-09-04 10:00:38 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Connexion réussie
+2026-09-04 10:01:24 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Nantes - Nantes Atlantique Airport (NTE)
+2026-09-04 10:19:08 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Connexion réussie
+2026-09-04 10:27:36 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Miami - Miami International Airport (MIA)
+2026-09-04 10:49:28 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Miami - Miami International Airport (MIA)
+2026-09-04 10:55:08 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Miami - Miami International Airport (MIA)
+2026-09-04 11:02:18 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Miami - Miami International Airport (MIA)
+2026-09-04 11:07:48 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 11:09:10 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Rennes - Rennes-Saint-Jacques Airport (RNS) -> Bordeaux - Bordeaux-Mérignac Airport (BOD)
+2026-09-04 11:10:36 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 11:18:49 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 11:21:48 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Fortaleza - Pinto Martins International Airport (FOR) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 11:35:54 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Rio De Janeiro - Rio Galeão – Tom Jobim International Airport (GIG)
+2026-09-04 11:42:50 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Rio De Janeiro - Rio Galeão – Tom Jobim International Airport (GIG)
+2026-09-04 11:43:52 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Rio De Janeiro - Santos Dumont Airport (SDU)
+2026-09-04 12:00:15 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 12:06:14 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Belem - Val de Cans/Júlio Cezar Ribeiro International Airport (BEL)
+2026-09-04 13:00:27 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-04 14:46:46 | IP: 2a01:e0a:1098:490:92de:711a:508e:e26 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:34:43 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:34:45 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:34:46 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:34:46 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:34:46 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:34:46 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-04 18:43:39 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-04 18:44:20 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> New York - John F Kennedy International Airport (JFK)
+2026-09-04 18:46:21 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> New York - John F Kennedy International Airport (JFK)
+2026-09-04 19:00:10 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Madrid - Adolfo Suárez Madrid–Barajas Airport (MAD)
+2026-09-04 19:16:49 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> New York - John F Kennedy International Airport (JFK)
+2026-09-04 19:30:24 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Abidjan - Port Bouet Airport (ABJ)
+2026-09-04 20:56:53 | IP: 2a01:e0a:1098:490:37a7:c146:18b4:9eef | Connexion réussie
+2026-09-04 20:58:01 | IP: 2a01:e0a:1098:490:37a7:c146:18b4:9eef | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-04 20:58:03 | IP: 142.250.32.100 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-04 21:37:16 | IP: 2a01:e0a:1098:490:37a7:c146:18b4:9eef | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-04 21:37:16 | IP: 2a01:e0a:1098:490:37a7:c146:18b4:9eef | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 08:55:52 | IP: 2a01:e0a:1098:490:1730:e794:5225:e51b | Connexion réussie
+2026-09-05 08:56:46 | IP: 2a01:e0a:1098:490:1730:e794:5225:e51b | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Fortaleza 
+2026-09-05 10:35:29 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Lisbon - Humberto Delgado Airport (Lisbon Portela Airport) (LIS)
+2026-09-05 10:37:50 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 10:40:38 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> fortaleza
+2026-09-05 10:52:22 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 12:39:23 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> fortaleza
+2026-09-05 12:49:26 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 12:51:01 | IP: 78.240.202.131 | Connexion réussie
+2026-09-05 12:52:28 | IP: 78.240.202.131 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> New York - John F Kennedy International Airport (JFK)
+2026-09-05 13:00:15 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:01:00 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Tokyo - Tokyo Haneda International Airport (HND)
+2026-09-05 13:02:04 | IP: 78.240.202.131 | Connexion réussie
+2026-09-05 13:14:34 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:14:58 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Recife - Guararapes - Gilberto Freyre International Airport (REC)
+2026-09-05 13:25:06 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:25:36 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Rio De Janeiro - Santos Dumont Airport (SDU)
+2026-09-05 13:32:17 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Tentative: David5638080
+2026-09-05 13:32:28 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:33:24 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Natal - Governador Aluízio Alves International Airport (NAT)
+2026-09-05 13:35:39 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:36:09 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Natal - Governador Aluízio Alves International Airport (NAT)
+2026-09-05 13:37:19 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:37:58 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Natal - Governador Aluízio Alves International Airport (NAT)
+2026-09-05 13:43:21 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:44:39 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Charles de Gaulle International Airport (CDG) -> Sao Paulo - Guarulhos - Governador André Franco Montoro International Airport (GRU)
+2026-09-05 13:53:23 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:53:54 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Belem - Val de Cans/Júlio Cezar Ribeiro International Airport (BEL)
+2026-09-05 13:56:45 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 13:57:20 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> Sao Luis - Marechal Cunha Machado International Airport (SLZ)
+2026-09-05 14:01:13 | IP: 78.240.202.131 | Connexion réussie
+2026-09-05 14:02:13 | IP: 78.240.202.131 | Recherche: Rennes - Rennes-Saint-Jacques Airport (RNS) -> Sao Luis - Marechal Cunha Machado International Airport (SLZ)
+2026-09-05 14:16:03 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 14:17:54 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Paris - Paris tous les aéroports (PAR) -> fortaleza
+2026-09-05 14:20:47 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Recherche: Brest - Brest Airport (BQT) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 14:43:55 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 14:55:34 | IP: 2a01:e0a:1098:490:4cc2:375d:cb4a:bd70 | Connexion réussie
+2026-09-05 15:23:00 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Connexion réussie
+2026-09-05 15:23:37 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 15:27:37 | IP: 78.240.202.131 | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 15:30:31 | IP: 78.240.202.131 | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 15:32:29 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 15:50:44 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Connexion réussie
+2026-09-05 15:51:47 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Rennes - Rennes-Saint-Jacques Airport (RNS) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 16:22:27 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Connexion réussie
+2026-09-05 16:23:20 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 16:27:30 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Nantes - Nantes Atlantique Airport (NTE) -> Paris - Paris tous les aéroports (PAR)
+2026-09-05 16:29:45 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Connexion réussie
+2026-09-05 16:30:29 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
+2026-09-05 16:33:08 | IP: 78.240.202.131 | Connexion réussie
+2026-09-05 16:50:33 | IP: 2a01:e0a:1098:490:c304:9c86:12af:bb3a | Recherche: Paris - Paris tous les aéroports (PAR) -> Fortaleza - Pinto Martins International Airport (FOR)
