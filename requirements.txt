@@ -6,3 +6,4 @@ webdriver-manager
 PyPDF2
 pdfplumber
 reportlab
+python-multipart
